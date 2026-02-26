@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  AWS_REGION: us-east-2
+  AWS_REGION: us-west-2
   ECR_REPOSITORY: newrepo-app
   EKS_CLUSTER_NAME: newrepo-cluster
 
